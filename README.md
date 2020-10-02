@@ -1,2 +1,2 @@
-# recat-image-upload
+# react-image-upload
 Created with CodeSandbox
